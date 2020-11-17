@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<!-- Battle -->
+<SongDef>
+		<clipPath>Squad Loadout</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+<SongDef>
+		<clipPath>Lazarus</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+<SongDef>
+		<clipPath>First Fight</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+	
+<SongDef>
+		<clipPath>Game Over</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Infiltrator</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Out of the Ashes</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Unification Day</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Obey</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Retaliation</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Avenger Attacked</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Stage One</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Implants</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Weapons of Choice</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Break the Line</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Blacksite Horror</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>New World Order</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Advent Coalition</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Refugee</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Commander Awakens</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Last Hope</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Ambush</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Victory</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Outpost</clipPath>
+		<volume>0.9</volume>
+		<tense>true</tense>
+	</SongDef>
+
+<!-- All -->
+
+<SongDef>
+		<clipPath>Welcome to the Lab</clipPath>
+		<volume>0.6</volume>
+	</SongDef>
+	
+<SongDef>
+		<clipPath>Stage Three</clipPath>
+        <volume>0.6</volume>
+	</SongDef> 
+
+<!-- Night -->
+<SongDef>
+		<clipPath>Psi Network</clipPath>
+        <volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef> 
+	
+<SongDef>
+		<clipPath>Alien Fortress</clipPath>
+        <volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>  
+	
+<SongDef>
+		<clipPath>Codex</clipPath>
+        <volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef> 
+
+<SongDef>
+		<clipPath>Avatar Project</clipPath>
+        <volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef> 
+	
+</Defs>
