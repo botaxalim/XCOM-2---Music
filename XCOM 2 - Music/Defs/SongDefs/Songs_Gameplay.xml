@@ -2,7 +2,7 @@
 <Defs>
 <!-- Battle -->
 <SongDef>
-		<clipPath>Squad Loadout</clipPath>
+		<clipPath>Squad_Loadout</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -14,13 +14,13 @@
 	</SongDef>
 	
 <SongDef>
-		<clipPath>First Fight</clipPath>
+		<clipPath>First_Fight</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 	
 <SongDef>
-		<clipPath>Game Over</clipPath>
+		<clipPath>Game_Over</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -32,13 +32,13 @@
 	</SongDef>
 
 <SongDef>
-		<clipPath>Out of the Ashes</clipPath>
+		<clipPath>Out_of_the_Ashes</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Unification Day</clipPath>
+		<clipPath>Unification_Day</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -56,13 +56,13 @@
 	</SongDef>
 
 <SongDef>
-		<clipPath>Avenger Attacked</clipPath>
+		<clipPath>Avenger_Attacked</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Stage One</clipPath>
+		<clipPath>Stage_One</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -74,31 +74,31 @@
 	</SongDef>
 
 <SongDef>
-		<clipPath>Weapons of Choice</clipPath>
+		<clipPath>Weapons_of_Choice</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Break the Line</clipPath>
+		<clipPath>Break_the_Line</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Blacksite Horror</clipPath>
+		<clipPath>Blacksite_Horror</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>New World Order</clipPath>
+		<clipPath>New_World_Order</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Advent Coalition</clipPath>
+		<clipPath>Advent_Coalition</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -110,13 +110,13 @@
 	</SongDef>
 
 <SongDef>
-		<clipPath>Commander Awakens</clipPath>
+		<clipPath>Commander_Awakens</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
 
 <SongDef>
-		<clipPath>Last Hope</clipPath>
+		<clipPath>Last_Hope</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -142,24 +142,24 @@
 <!-- All -->
 
 <SongDef>
-		<clipPath>Welcome to the Lab</clipPath>
+		<clipPath>Welcome_to_the_Lab</clipPath>
 		<volume>0.6</volume>
 	</SongDef>
 	
 <SongDef>
-		<clipPath>Stage Three</clipPath>
+		<clipPath>Stage_Three</clipPath>
         <volume>0.6</volume>
 	</SongDef> 
 
 <!-- Night -->
 <SongDef>
-		<clipPath>Psi Network</clipPath>
+		<clipPath>Psi_Network</clipPath>
         <volume>0.6</volume>
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef> 
 	
 <SongDef>
-		<clipPath>Alien Fortress</clipPath>
+		<clipPath>Alien_Fortress</clipPath>
         <volume>0.6</volume>
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef>  
@@ -171,7 +171,7 @@
 	</SongDef> 
 
 <SongDef>
-		<clipPath>Avatar Project</clipPath>
+		<clipPath>Avatar_Project</clipPath>
         <volume>0.6</volume>
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef> 
