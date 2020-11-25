@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 <!-- Battle -->
 <SongDef>
@@ -8,13 +8,7 @@
 	</SongDef>
 	
 <SongDef>
-		<clipPath>Lazarus</clipPath>
-		<volume>0.9</volume>
-		<tense>true</tense>
-	</SongDef>
-	
-<SongDef>
-		<clipPath>First_Fight</clipPath>
+		<clipPath>First_Flight</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -24,15 +18,9 @@
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
-
+	
 <SongDef>
 		<clipPath>Infiltrator</clipPath>
-		<volume>0.9</volume>
-		<tense>true</tense>
-	</SongDef>
-
-<SongDef>
-		<clipPath>Out_of_the_Ashes</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -62,18 +50,6 @@
 	</SongDef>
 
 <SongDef>
-		<clipPath>Stage_One</clipPath>
-		<volume>0.9</volume>
-		<tense>true</tense>
-	</SongDef>
-
-<SongDef>
-		<clipPath>Implants</clipPath>
-		<volume>0.9</volume>
-		<tense>true</tense>
-	</SongDef>
-
-<SongDef>
 		<clipPath>Weapons_of_Choice</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
@@ -81,12 +57,6 @@
 
 <SongDef>
 		<clipPath>Break_the_Line</clipPath>
-		<volume>0.9</volume>
-		<tense>true</tense>
-	</SongDef>
-
-<SongDef>
-		<clipPath>Blacksite_Horror</clipPath>
 		<volume>0.9</volume>
 		<tense>true</tense>
 	</SongDef>
@@ -176,4 +146,33 @@
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef> 
 	
+<SongDef>
+		<clipPath>Blacksite_Horror</clipPath>
+		<volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+
+<SongDef>
+		<clipPath>Implants</clipPath>
+		<volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>	
+
+<SongDef>
+		<clipPath>Lazarus</clipPath>
+		<volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Out_of_the_Ashes</clipPath>
+		<volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+<SongDef>
+		<clipPath>Stage_One</clipPath>
+		<volume>0.6</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
 </Defs>
